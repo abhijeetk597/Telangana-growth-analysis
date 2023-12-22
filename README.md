@@ -24,4 +24,6 @@ Dataset consists of 2 dimension tables and 3 fact tables.
 
 **[Video Presentation](https://youtu.be/M5WoBwT9gUc)**
 
+**[Presenation PDF](https://drive.google.com/file/d/1f_ft4XR_I0Byk1llmvO_sGEUDoZ8KgwN/view?usp=sharing)**
+
 **[Live Dashboard](https://www.novypro.com/project/telangana-growth-analysis-42)**
